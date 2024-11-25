@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$BUDDHA - Solana Meme Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5dc; /* Light golden background */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #d4af37; /* Golden header */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            background-color: #f8de7e;
+            padding: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #d4af37;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        .buddha-pictures img {
+            width: 100%;
+            max-width: 300px;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #d4af37;
+            color: white;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: white;
+        }
+        .contract {
+            background: #fff8dc;
+            padding: 10px;
+            border: 1px solid #d4af37;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to $BUDDHA</h1>
+    <p>The Golden Meme Coin on Solana</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#how-to-buy">How to Buy</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#philosophy">Buddha's Thinking</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About $BUDDHA</h2>
+    <p>$BUDDHA is the meme coin inspired by the teachings and serenity of Buddha, designed to bring peace and joy to the Solana blockchain.</p>
+    <div class="contract">
+        <strong>Contract Address:</strong>  
+        <p>YOUR_SOLANA_CONTRACT_ADDRESS_HERE</p>
+    </div>
+</section>
+
+<section id="how-to-buy">
+    <h2>How to Buy</h2>
+    <ol>
+        <li>Download a Solana-compatible wallet (e.g., Phantom Wallet).</li>
+        <li>Add Solana (SOL) to your wallet.</li>
+        <li>Visit a decentralized exchange (DEX) like <a href="https://raydium.io/" target="_blank">Raydium</a>.</li>
+        <li>Search for <strong>$BUDDHA</strong> using the contract address and swap SOL for $BUDDHA.</li>
+    </ol>
+</section>
+
+<section id="gallery">
+    <h2>Gallery</h2>
+    <div class="buddha-pictures">
+        <img src="buddha1.jpg" alt="Buddha Image 1">
+        <img src="buddha2.jpg" alt="Buddha Image 2">
+        <img src="buddha3.jpg" alt="Buddha Image 3">
+        <img src="buddha4.jpg" alt="Buddha Image 4">
+        <img src="buddha5.jpg" alt="Buddha Image 5">
+    </div>
+</section>
+
+<section id="philosophy">
+    <h2>Buddha's Thinking</h2>
+    <blockquote>
+        "Peace comes from within. Do not seek it without."  
+    </blockquote>
+    <blockquote>
+        "The mind is everything. What you think you become."
+    </blockquote>
+</section>
+
+<section id="contact">
+    <h2>Connect with Us</h2>
+    <div class="social-links">
+        <a href="YOUR_TWITTER_LINK" target="_blank">Twitter</a> |
+        <a href="YOUR_TELEGRAM_LINK" target="_blank">Telegram</a> |
+        <a href="YOUR_DISCORD_LINK" target="_blank">Discord</a>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 $BUDDHA Meme Coin. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
